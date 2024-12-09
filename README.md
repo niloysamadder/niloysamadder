@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Niloy Samadder
-- 👀 I’m interested in Data Science
-- 💞️ I’m looking to collaborate on any project related to data analysis
+- 👀 I’m interested in Data Analysis / Data Science / Data Engineering
+- 💞️ I’m looking to collaborate on any project related to data 
 - 📫 reach me at niloysamadder.ruet@gmail.com
 
 <!---
